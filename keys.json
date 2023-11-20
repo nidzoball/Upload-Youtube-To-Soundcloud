@@ -1,0 +1,8 @@
+{
+    "channelID": "chanel id here",
+    "APIKey": "api key here",
+    "webhook": "your discord webhook url here",
+    "startTime": "00:01",
+    "endTime": "23:59",
+    "delay": "3600"
+  }
